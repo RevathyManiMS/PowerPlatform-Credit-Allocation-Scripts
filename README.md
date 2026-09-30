@@ -2,6 +2,8 @@
 
 PowerShell scripts for managing Power Platform credit allocations and capacity-overage behavior for one or multiple environments.
 
+> 📘 **[Read the guide: Managing Copilot Credits with Environment-Level Allocation](https://revathymanims.github.io/PowerPlatform-Credit-Allocation-Scripts/)** — how Copilot credits are governed per environment in the Power Platform admin center, and how these scripts apply the same settings programmatically.
+
 The scripts can:
 
 - Set the credits allocated to an environment.
@@ -513,6 +515,8 @@ PowerPlatform-Credit-Allocation-Scripts/
 ├── LICENSE
 ├── Set-PowerPlatformSingleEnvironmentAllocation.ps1
 ├── Set-PowerPlatformEnvironmentAllocationsFromCsv.ps1
+├── docs/
+│   └── index.html
 └── examples/
     └── allocations.example.csv
 ```
