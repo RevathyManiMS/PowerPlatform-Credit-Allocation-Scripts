@@ -19,7 +19,8 @@ The scripts can:
 
 ## Capacity-overage behavior
 
-Power Platform environments can have the following capacity-overage setting enabled:
+Power Platform environments can have the following capacity-overage setting enabled:<img width="543" height="716" alt="image" src="https://github.com/user-attachments/assets/31e4523d-9683-4785-b48d-8d2de94cf34f" />
+
 
 > **Draw from the available capacity in my tenant**
 
